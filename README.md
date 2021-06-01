@@ -3,7 +3,7 @@
 ![1087685](https://user-images.githubusercontent.com/84356982/120254526-6f024200-c260-11eb-831b-8766fca10b1c.jpg)
 
 
-*<h2>O CAVALEIRO DAS TREVAS</h2>*
+<a href="https://www.adorocinema.com/filmes/filme-115362/">O CAVALEIRO DAS TREVAS</a>
 
 **Aproveitando o lançamento de Tenet, o novo filme de Christopher Nolan, nosso #tbt de hoje é do maior sucesso: O Cavaleiro das Trevas, o segundo filme da sua trilogia do Batman.  Considerado por muitos, tanto pela crítica quanto pelo público, como um dos melhores (pra mim o melhor) filmes de super heróis de todos os tempos.
 <br>Dando sequência ao que aconteceu em Begins (2005), Batman segue junto com James Gordon a luta contra o crime organizado dessa vez com o reforço do incorruptível promotor público Harvey Dent (Aaron Eckhart). Dessa vez os chefões do crime se veem perdendo o embate e se aliam a um certo psicopata de cabelos verdes.
