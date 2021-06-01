@@ -1,5 +1,4 @@
-![1_18SPGkIHPuF9Ivtg_T4AUw](https://user-images.githubusercontent.com/84356982/120250513-c6021a00-c254-11eb-905e-1919bb16c4ea.png)
-
+![790645](https://user-images.githubusercontent.com/84356982/120250725-8c7dde80-c255-11eb-9f0e-a4361ca16b56.jpg)
 > Status: desenvolvimento⚠️
 
 ### Ainda
