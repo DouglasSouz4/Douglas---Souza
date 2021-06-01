@@ -32,4 +32,5 @@
  `console.log('ex1-linha1')`
    
 
-<h3> SE A IMAGEM NÃO CARREGAR⚠️![wp3082255](https://user-images.githubusercontent.com/84356982/120253875-f058d500-c25e-11eb-9a96-71493dee3458.jpg)</h3>
+<h3> SE A IMAGEM NÃO CARREGAR⚠️![1087685](https://user-images.githubusercontent.com/84356982/120262954-1e471500-c271-11eb-92d2-0349ac14a8c6.jpg)
+</h3>
