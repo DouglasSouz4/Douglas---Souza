@@ -13,14 +13,14 @@
 <br>O filme confirmou seu sucesso e concorreu a 8 indicações ao Oscar de 2008, sendo um deles a de melhor filme, sendo premiado por Melhor Ator Coadjuvante e Melhor Edição de Som.**
 
 
-## > *Inimigos do Batman*
+##  *Inimigos do Batman*
  + Coringa 🃏
  + Charada ❓
  + Pinguin 🐧
  + Duas-Caras 🎭
  + Senhor Frio 🧊
 
-## > *Aliados*
+##  *Aliados*
   1. Robin ®️
   2. Super choque  ⚡    
   3. Batgirl 🦇
