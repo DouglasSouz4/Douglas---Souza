@@ -22,12 +22,12 @@
  + Senhor Frio
 
 ## > *Aliados*
-       Robin
-       Super choque
-       Batgirl
-       Asa Noturna
-       Mulher-Gato
-     
+  1. Robin
+  2. Super choque      
+  3. Batgirl
+  4. Asa Noturna
+  5. Mulher-Gato
+  
      
   ## Código e instruções de programação
  `console.log(ex1-linha1)`
